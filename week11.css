@@ -1,0 +1,23 @@
+body{
+	background-color: navy;
+}
+h1 {
+	text-align:center;
+	color: white;
+	margin-left:  20px;
+	font-family:algerian;
+}
+h2{
+	text-align:center;
+	color:green;
+	margin-left:20px;
+	font-family:algerian;
+}
+photo{
+	position: relative;
+	left: 500px
+	top:50px;
+	border-radius: 30px
+	border:7px solid
+	border-color: green;
+}
